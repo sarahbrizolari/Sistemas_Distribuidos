@@ -1,0 +1,4 @@
+org\example\ServicoRemotoImpl.class
+org\example\Message.class
+org\example\IServicoRemoto.class
+org\example\User.class

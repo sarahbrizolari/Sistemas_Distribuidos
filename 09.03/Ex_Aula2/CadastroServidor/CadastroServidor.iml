@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/CadastroServidor/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/CadastroServidor">
+      <sourceFolder url="file://$MODULE_DIR$/CadastroServidor/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroServidor/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroServidor/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroServidor/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/CadastroServidor/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

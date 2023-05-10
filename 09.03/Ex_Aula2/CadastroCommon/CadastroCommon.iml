@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/CadastroCommon/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/CadastroCommon">
+      <sourceFolder url="file://$MODULE_DIR$/CadastroCommon/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroCommon/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroCommon/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/CadastroCommon/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/CadastroCommon/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../CadastroApp" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../CadastroApp/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../CadastroServidor/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
